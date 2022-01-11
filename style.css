@@ -1,0 +1,42 @@
+body {
+	background-color: #2F2E2F;
+}
+
+div {
+	text-align: center;
+	padding-top: 4em;
+}
+
+h1 {
+	color: #FFFF;
+}
+
+button {
+	height: 2.2em;
+	width: 5.5m;
+	color: #FFFF;
+	border: none;
+	margin: 0.5em;
+	font-size: 2em;
+	border-radius: 1em;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+#cronometro{
+	font-size: 10em;
+}
+
+.start-btn {
+	background-color: #59FA83;
+}
+
+.pause-btn {
+	background-color: #DBA800;
+}
+
+.stop-btn {
+	background-color: #FE0100;
+}
